@@ -1,8 +1,7 @@
 # Myblogs
 
 
-> 我要开始装逼了
+> 欢迎来到我的主页
 
-
-[CSDN](https://blog.csdn.net/m0_37965018)
+[知乎](https://www.zhihu.com/people/zhi-qing-35-89)
 [滚动鼠标](#introduction)
